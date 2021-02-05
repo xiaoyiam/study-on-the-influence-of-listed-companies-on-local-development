@@ -1,14 +1,17 @@
 {
     "": [
+        "reference.md", 
         "study-on-the-influence-of-listed-companies-on-local-development.md", 
         "chinese-english-bilingual.md"
     ], 
     "__positions": {
-        "study-on-the-influence-of-listed-companies-on-local-development.md": 1, 
-        "chinese-english-bilingual.md": 2
+        "study-on-the-influence-of-listed-companies-on-local-development.md": 2, 
+        "chinese-english-bilingual.md": 3, 
+        "reference.md": 1
     }, 
     "__raw_positions": {
-        "study-on-the-influence-of-listed-companies-on-local-development.md": 1, 
-        "chinese-english-bilingual.md": 2
+        "study-on-the-influence-of-listed-companies-on-local-development.md": 2, 
+        "chinese-english-bilingual.md": 3, 
+        "reference.md": 1
     }
 }
